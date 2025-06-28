@@ -18,7 +18,7 @@ Inspired by the tutorial *"Build a Wallpaper App in Expo Router v3"*.
 
 ## 📸 Demo
 
-![App Demo](./public/demo-screenshot.png)
+![App Demo](./public/demo-screenshot.jpg)
 
 > *Replace this placeholder with an actual screenshot of your app’s UI.*
 
